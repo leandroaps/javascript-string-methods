@@ -1,1 +1,3 @@
-# javascript-string-methods
+# Javascript String Methods
+
+```"Hello.charAt(4)"```
