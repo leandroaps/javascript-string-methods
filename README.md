@@ -15,7 +15,7 @@
 ## It returns true for the starting letter
 
 ```javascript
-"Hello".startWith("H")
+`"Hello".startWith("H")`
 ```
 
 ## It returns true for the lasting letter
