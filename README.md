@@ -5,13 +5,7 @@
 ```
 "Hello.charAt(4)"
 ```
-```html
-<div class="row">
-  <div class="col-md-6 col-md-offset-3">
-    <h1"Hello.charAt(4)"</h1>
-  </div>
-</div>
-```html
+
 ## It will concatenate your strings and will return: "Hello world"
 
 ```
